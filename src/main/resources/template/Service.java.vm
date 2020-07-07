@@ -1,0 +1,15 @@
+package ${package.Service};
+
+import ${package.Entity}.${entity};
+import ${superServiceClassPackage};
+
+/**
+ * @PACKAGE_NAME: ${PACKAGE_NAME}
+ * @author: ${author}
+ * @description:
+ * @DATE: ${date}
+ **/
+@RestCo
+public interface ${table.serviceName} extends ${superServiceClass}<${entity}> {
+
+}

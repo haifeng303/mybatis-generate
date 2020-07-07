@@ -1,0 +1,10 @@
+target/
+test/
+.settings
+.idea
+.classpath
+*.project
+*.iml
+*.versionsBackup
+**.idea
+**.settings
